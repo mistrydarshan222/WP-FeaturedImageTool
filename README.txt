@@ -1,6 +1,6 @@
 === Plugin Name ===
 
-Donate link: https://janisahil.com/
+Donate link: https://darshanmistry.in/
 Tags: comments, spam
 Requires at least: 3.0.1
 Tested up to: 3.4
