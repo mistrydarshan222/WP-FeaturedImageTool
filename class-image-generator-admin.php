@@ -3,7 +3,7 @@
 /**
  * The admin-specific functionality of the plugin.
  *
- * @link       https://janisahil.com/
+ * @link       https://darshanmistry.in/
  * @since      1.0.0
  *
  * @package    Image_Generator
@@ -18,7 +18,7 @@
  *
  * @package    Image_Generator
  * @subpackage Image_Generator/admin
- * @author     Sahil Jani <iam@janisahil.com>
+ * @author     Darshan <iam@darshanmistry.in>
  */
 class Image_Generator_Admin {
 
